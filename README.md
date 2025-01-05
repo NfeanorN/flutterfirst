@@ -1,4 +1,3 @@
-# Smartsu Mobile App
 
 
 
